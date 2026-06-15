@@ -1,0 +1,3 @@
+Model,MAE reduction %,R2 increase,FP absent reduction (pp),Presence F1 increase
+Softmax CNN,19.8,0.123,12.3,0.100
+Sparse Multitask CNN,22.4,0.132,13.0,0.115

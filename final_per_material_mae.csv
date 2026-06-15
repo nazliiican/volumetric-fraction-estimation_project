@@ -1,0 +1,7 @@
+Material,Random Forest,Softmax CNN,Sparse Multitask CNN
+CL,0.094,0.097,0.092
+GP1,0.165,0.074,0.058
+GP2,0.107,0.048,0.060
+MH1,0.098,0.129,0.118
+MH2,0.149,0.140,0.143
+SP,0.137,0.113,0.113
